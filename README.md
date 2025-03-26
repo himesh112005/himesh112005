@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Data Science&AI, Coding and Public Speaking
 - 🌱 I’m currently learning  Data Science and Ai
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through my linkdin- www.linkedin.com/in/himesh-raghuwanshi                                        
+- 📫 How to reach me through my linkdin- www.linekedin.com/in/himesh-raghuwanshi                                        
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
