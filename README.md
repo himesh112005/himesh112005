@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @himesh112005
+- 👋 Hi, I’m Himesh Raghuwanshi
 - 👀 I’m interested in  Data Science&AI, Coding and Public Speaking
 - 🌱 I’m currently learning  Data Science and Ai
 - 💞️ I’m looking to collaborate on ...
