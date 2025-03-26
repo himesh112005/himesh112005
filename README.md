@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @himesh112005
-- 👀 I’m interested in UI design, Data Science&AI, Coading and Public Speaking
-- 🌱 I’m currently learning DSA In Java, Data Science
+- 👀 I’m interested in  Data Science&AI, Coding and Public Speaking
+- 🌱 I’m currently learning  Data Science and Ai
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me through my linkdin- www.linkedin.com/in/himesh-raghuwanshi                                        
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
 <!---
