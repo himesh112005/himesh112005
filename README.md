@@ -22,13 +22,11 @@ nodejs,html,css,django,flask,react,git,mongodb,docker,opencv,ai,figma,firebase,s
 📊 **Public Repositories:** 24  
 👥 **Followers:** 4  
 👤 **Following:** 12  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himesh112005&show_icons=true&theme=radical)
 
 ## Recent Activity
 
 - Pushed to [himesh112005/himesh112005](https://github.com/himesh112005/himesh112005) on Dec 17, 2025
 - Created branch in [Virtual-Keyboard-using-Opencv](https://github.com/himesh112005/Virtual-Keyboard-using-Opencv) on Dec 14, 2025
-- Forked [daytona](https://github.com/daytonaio/daytona) on Dec 13, 2025
 - Pushed to [Clone-using-Open-Cv](https://github.com/himesh112005/Clone-using-Open-Cv) on Dec 7, 2025
 - Created branch in [Clone-using-Open-Cv](https://github.com/himesh112005/Clone-using-Open-Cv) on Dec 7, 2025
 
