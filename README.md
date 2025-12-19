@@ -8,7 +8,7 @@ I'm currently based in **Dhule, Maharashtra**. As a dedicated computer engineeri
 
 ## Skills & Technologies
 
-nodejs,html,css,django,flask,react,git,mongodb,docker,opencv,ai,figma,firebase,supabase,visualstudio
+nodejs,html,css,flask,react,git,docker,opencv,numpy,Matplotlib,PowerBi,ai,figma,firebase,supabase,visualstudio
 
 ## Top Projects
 
