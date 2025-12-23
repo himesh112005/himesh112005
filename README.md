@@ -21,7 +21,7 @@ nodejs,html,css,flask,react,git,docker,opencv,numpy,Matplotlib,PowerBi,ai,figma,
 
 📊 **Public Repositories:** 24  
 👥 **Followers:** 5
-👤 **Following:** 12  
+👤 **Following:** 15
 
 ## Recent Activity
 
