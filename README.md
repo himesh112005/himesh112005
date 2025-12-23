@@ -32,4 +32,4 @@ nodejs,html,css,flask,react,git,docker,opencv,numpy,Matplotlib,PowerBi,ai,figma,
 
 ## Connect me
 
-{"Portfiolio":"https://himesh-raghuwanshi.vercel.app/"}
+Portfiolio:"https://himesh-raghuwanshi.vercel.app/"
