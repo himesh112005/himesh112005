@@ -12,10 +12,10 @@ nodejs,html,css,flask,react,git,docker,opencv,numpy,Matplotlib,PowerBi,ai,figma,
 
 ## Top Projects
 
-- [Aura-fintech](https://github.com/himesh112005/Aura-fintech): A project focused on fintech solutions. Stars: 0, Language: Not specified, Forks: 0, Issues: 0
-- [Virtual-Keyboard-using-Opencv](https://github.com/himesh112005/Virtual-Keyboard-using-Opencv): A virtual keyboard project utilizing OpenCV. Stars: 0, Language: Python, Forks: 0, Issues: 0
-- [Himesh-Raghuwanshi](https://github.com/himesh112005/Himesh-Raghuwanshi): My personal portfolio website. Stars: 0, Language: HTML, Forks: 0, Issues: 1
-- [Clone-using-Open-Cv](https://github.com/himesh112005/Clone-using-Open-Cv): A cloning project using OpenCV. Stars: 0, Language: Python, Forks: 0, Issues: 0
+- [Aura-fintech](https://github.com/himesh112005/Aura-fintech): A project focused on fintech solutions. 
+- [Virtual-Keyboard-using-Opencv](https://github.com/himesh112005/Virtual-Keyboard-using-Opencv): A virtual keyboard project utilizing OpenCV.  
+- [Himesh-Raghuwanshi](https://github.com/himesh112005/Himesh-Raghuwanshi): My personal portfolio website.
+- [Clone-using-Open-Cv](https://github.com/himesh112005/Clone-using-Open-Cv): A cloning project using OpenCV.  
 
 ## GitHub Stats
 
