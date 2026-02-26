@@ -20,8 +20,8 @@ nodejs,html,css,flask,react,git,docker,opencv,numpy,Matplotlib,PowerBi,ai,figma,
 ## GitHub Stats
 
 📊 **Public Repositories:** 24  
-👥 **Followers:** 5
-👤 **Following:** 15
+👥 **Followers:** 7
+👤 **Following:** 17
 
 ## Recent Activity
 
